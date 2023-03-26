@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("../img/mou.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+header{
+    display: flex;
+}
+    h1{
+        margin-top: 5rem;
+        margin-left: 5rem;
+        color: darkmagenta;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 50px;
+        border-radius: 1rem;
+        padding: 5px;
+        box-shadow: 2px 2px 25px black;
+        background-color: whitesmoke;
+}
